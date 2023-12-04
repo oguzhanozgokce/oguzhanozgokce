@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Oguzhan ♥</h1>
+<h1 align="center">Hi 👋, I'm Oguzhan ✰</h1>
 <h3 align="center">A passionate Android developer from Turkey</h3>
 <img align="right" alt="Coding" witdh="400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU>
 
