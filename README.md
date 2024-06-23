@@ -18,7 +18,7 @@
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,idea,github,java,visualstudio,tensorflow,mysql,notion,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,idea,github,java,visualstudio,tensorflow,notion,discord)](https://skillicons.dev)
 
 
 ## Github Stats
