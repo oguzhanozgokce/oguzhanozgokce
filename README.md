@@ -29,4 +29,4 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozgokce&layout=compact&theme=dark" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozgokce&hide_progress=false&hide=ShaderLab,HLSL)
+
