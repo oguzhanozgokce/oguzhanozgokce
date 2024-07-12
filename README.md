@@ -25,4 +25,11 @@
 ## Github Stats
 ![Oguzhan OZGOKCE's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanozgokce&show_icons=true&theme=radical&cache_seconds=1800)
 
+## Github Statss
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=oguzhanozgokce&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozgokce&layout=compact&theme=dark" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozgokce&hide_progress=false&hide=ShaderLab,HLSL)
