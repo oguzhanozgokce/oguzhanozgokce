@@ -21,11 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,idea,github,java,visualstudio,tensorflow,notion,discord)](https://skillicons.dev)
 
 
-
-## Github Stats
-![Oguzhan OZGOKCE's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanozgokce&show_icons=true&theme=radical&cache_seconds=1800)
-
-## Github Statss
+## Oguzhan OZGOKCE's GitHub stats
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=oguzhanozgokce&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> 
