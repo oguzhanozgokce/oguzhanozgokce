@@ -22,12 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,idea,github,java,visualstudio,tensorflow,notion,discord)](https://skillicons.dev)
 
 
-## Oguzhan OZGOKCE's GitHub stats
 
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhanozgokce&show_icons=true&theme=transparent&count_private=true&hide=contribs,issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozgokce&layout=compact&theme=transparent" />
-</p>
 
 
 
