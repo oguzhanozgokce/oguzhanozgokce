@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="title desc">
+<title id="title">Oğuzhan Özgökce, Software Developer</title>
+<desc id="desc">Banner with the name Oğuzhan Özgökce, the title Software Developer and a short Kotlin snippet: role Software Developer, company Midas, focus Android, Kotlin and AI, mindset research and creativity.</desc>
+<defs>
+<clipPath id="frame"><rect width="1200" height="320" rx="20"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f9f9f9"/><stop offset="1" stop-color="#f3f0fb"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#dcd8e8"/></pattern>
+<radialGradient id="fade" cx="0.5" cy="0.5" r="0.75"><stop offset="0.35" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="dotmask"><rect width="1200" height="320" fill="url(#fade)"/></mask>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+<clipPath id="role"><rect class="type role" x="96" y="176" width="285.9" height="36"/></clipPath>
+<clipPath id="l0"><rect class="type t0" x="744" y="110" width="222.7" height="26"/></clipPath><clipPath id="l1"><rect class="type t1" x="744" y="137" width="295.0" height="26"/></clipPath><clipPath id="l2"><rect class="type t2" x="744" y="164" width="204.7" height="26"/></clipPath><clipPath id="l3"><rect class="type t3" x="744" y="191" width="331.1" height="26"/></clipPath><clipPath id="l4"><rect class="type t4" x="744" y="218" width="349.1" height="26"/></clipPath><clipPath id="l5"><rect class="type t5" x="744" y="245" width="15.0" height="26"/></clipPath>
+</defs>
+<style>
+.name{font:700 58px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;letter-spacing:-1.5px;fill:#1b1b1b}
+.handle{font:500 15px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#6c687a}
+.prompt{font:600 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#6437db}
+.roletext{font:600 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#1b1b1b}
+.meta{font:500 15px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#6c687a}
+.code{font:500 15px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#2b2836}
+.ln{font:500 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#6c687a;opacity:.55}
+.file{font:500 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#6c687a}
+.k{fill:#6437db}.f{fill:#6437db}.s{fill:#9c3660}.p{fill:#6c687a}.t{fill:#2b2836}
+.type{transform-box:fill-box;transform-origin:left center}
+.role{animation:type 1.1s steps(18,end) .25s both}
+.t0{animation:type 0.53s steps(24,end) 0.9s both}.t1{animation:type 0.7s steps(32,end) 1.51s both}.t2{animation:type 0.48s steps(22,end) 2.29s both}.t3{animation:type 0.79s steps(36,end) 2.85s both}.t4{animation:type 0.84s steps(38,end) 3.72s both}.t5{animation:type 0.15s steps(1,end) 4.64s both}
+.cursor{fill:#6437db;animation:move 1.1s steps(18,end) .25s both,blink 1.1s steps(1,end) 1.4s infinite}
+.g1{animation:drift1 16s ease-in-out infinite alternate}
+.g2{animation:drift2 20s ease-in-out infinite alternate}
+.rise{animation:rise .7s cubic-bezier(.2,.7,.2,1) both}
+.card{animation:rise .8s cubic-bezier(.2,.7,.2,1) .35s both}
+@keyframes type{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes move{from{transform:translateX(0)}to{transform:translateX(281.9px)}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@keyframes drift1{from{transform:translate(0,0)}to{transform:translate(110px,40px)}}
+@keyframes drift2{from{transform:translate(0,0)}to{transform:translate(-130px,-30px)}}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.cursor{transform:translateX(281.9px)}}
+</style>
+<g clip-path="url(#frame)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<g filter="url(#blur)" opacity="0.32">
+<circle class="g1" cx="170" cy="40" r="170" fill="#a98fff"/>
+<circle class="g2" cx="1090" cy="310" r="150" fill="#ff8db6"/>
+</g>
+<rect width="1200" height="320" fill="url(#dots)" mask="url(#dotmask)"/>
+<g class="rise">
+<circle cx="70" cy="77" r="5" fill="#6437db"/>
+<text class="handle" x="86" y="82">github.com/oguzhanozgokce</text>
+<text class="name" x="62" y="154">Oğuzhan Özgökce</text>
+<text class="prompt" x="64" y="203">&gt;</text>
+<text class="roletext" x="96" y="203" clip-path="url(#role)">Software Developer</text>
+<rect class="cursor" x="99" y="181" width="13" height="27" rx="2"/>
+<text class="meta" x="64" y="252">Android · Kotlin · Jetpack Compose · Kotlin Multiplatform</text>
+</g>
+<g class="card">
+<rect x="684" y="42" width="456" height="236" rx="14" fill="#ffffff" stroke="#dedbe8"/>
+<path d="M684 56a14 14 0 0 1 14-14h428a14 14 0 0 1 14 14v26H684z" fill="#f3f1f8"/>
+<circle cx="708" cy="62" r="5.5" fill="#9c3660" opacity=".85"/>
+<circle cx="727" cy="62" r="5.5" fill="#6437db" opacity=".55"/>
+<circle cx="746" cy="62" r="5.5" fill="#6c687a" opacity=".5"/>
+<text class="file" x="912" y="67" text-anchor="middle">Oguzhan.kt</text>
+<text class="code" x="744.0" y="128" clip-path="url(#l0)" xml:space="preserve"><tspan class="k">val</tspan><tspan class="t"> oguzhan </tspan><tspan class="p">= </tspan><tspan class="f">Developer</tspan><tspan class="p">(</tspan></text><text class="ln" x="724" y="128" text-anchor="end">1</text><text class="code" x="780.1" y="155" clip-path="url(#l1)" xml:space="preserve"><tspan class="t">role </tspan><tspan class="p">= </tspan><tspan class="s">"Software Developer"</tspan><tspan class="p">,</tspan></text><text class="ln" x="724" y="155" text-anchor="end">2</text><text class="code" x="780.1" y="182" clip-path="url(#l2)" xml:space="preserve"><tspan class="t">company </tspan><tspan class="p">= </tspan><tspan class="s">"Midas"</tspan><tspan class="p">,</tspan></text><text class="ln" x="724" y="182" text-anchor="end">3</text><text class="code" x="780.1" y="209" clip-path="url(#l3)" xml:space="preserve"><tspan class="t">focus </tspan><tspan class="p">= </tspan><tspan class="s">"Android · Kotlin · AI"</tspan><tspan class="p">,</tspan></text><text class="ln" x="724" y="209" text-anchor="end">4</text><text class="code" x="780.1" y="236" clip-path="url(#l4)" xml:space="preserve"><tspan class="t">mindset </tspan><tspan class="p">= </tspan><tspan class="s">"Research · Creativity"</tspan><tspan class="p">,</tspan></text><text class="ln" x="724" y="236" text-anchor="end">5</text><text class="code" x="744.0" y="263" clip-path="url(#l5)" xml:space="preserve"><tspan class="p">)</tspan></text><text class="ln" x="724" y="263" text-anchor="end">6</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="319" rx="19.5" fill="none" stroke="#dedbe8"/>
+</g>
+</svg>

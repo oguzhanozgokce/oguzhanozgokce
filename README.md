@@ -1,28 +1,25 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Oguzhan ✰</h1>
-<h3 align="center">A passionate Android developer from Turkey</h3>
-<img align="right" alt="Coding" witdh="400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Oğuzhan Özgökce, Software Developer">
+</picture>
 
-- 🌱 I’m currently learning **Android**
+### Hi, I'm Oğuzhan 👋
 
-- 📫 How to reach me **ozgokceoguzhan34@gmail.com**
+I'm a software developer at **[Midas](https://www.getmidas.com)**, where I work on the Midas and Midas Crypto Android apps. Most of my days are Kotlin, Jetpack Compose and modular architecture.
 
+I like to research before I build: understanding how something works, then engineering it carefully. Outside of work I ship my own products with Kotlin Multiplatform, explore what AI makes possible, and write about Android on Medium.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/oguzgkcee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzgkcee1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/oğuzhan-özgökce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oğuzhan-özgökce/" height="30" width="40" /></a>
-<a href="https://medium.com/@ozgokceoguzhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22333121/o%C4%9Fuzhan-%C3%96zg%C3%B6kce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-</p>
+### Selected work
 
+- **[Cosum](https://ozgokceoguz.com/en/projects/cosum/)**: a bill-splitting app for Android and iOS, built with Kotlin Multiplatform and Compose Multiplatform.
+- **[MidMoney](https://github.com/oguzhanozgokce/MidMoney)**: a native Android market tracker written for its architecture: 22 Gradle modules, convention plugins and a single quality gate.
+- **[Highwren UI](https://github.com/oguzhanozgokce/web-design-system)**: accessible React components with themes generated from one seed colour.
 
+### Tools I reach for
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,idea,github,java,visualstudio,tensorflow,notion,discord)](https://skillicons.dev)
+<a href="https://ozgokceoguz.com/en/"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,spring,ts,react,nextjs,supabase" height="40" alt="Kotlin, Android Studio, Gradle, Spring, TypeScript, React, Next.js, Supabase"></a>
 
+### Find me
 
-
-
-
-
+[ozgokceoguz.com](https://ozgokceoguz.com/en/) · [LinkedIn](https://www.linkedin.com/in/oğuzhan-özgökce/) · [Medium](https://ozgokceoguzhan.medium.com/)
