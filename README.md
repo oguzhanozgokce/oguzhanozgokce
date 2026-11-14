@@ -12,7 +12,7 @@ I like to research before I build: understanding how something works, then engin
 
 ### Selected work
 
-- **[Cosum](https://ozgokceoguz.com/en/projects/cosum/)**: a bill-splitting app for Android and iOS, built with Kotlin Multiplatform and Compose Multiplatform.
+- **[Cosum](https://cosum.app)**: a bill-splitting app for Android and iOS, built with Kotlin Multiplatform and Compose Multiplatform. Get it on [Google Play](https://play.google.com/store/apps/details?id=app.oguzhanozgokce.cosum) or the [App Store](https://apps.apple.com/app/id6798811181).
 - **[MidMoney](https://github.com/oguzhanozgokce/MidMoney)**: a native Android market tracker written for its architecture: 22 Gradle modules, convention plugins and a single quality gate.
 - **[Highwren UI](https://github.com/oguzhanozgokce/web-design-system)**: accessible React components with themes generated from one seed colour.
 
